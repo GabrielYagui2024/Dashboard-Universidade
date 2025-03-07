@@ -17,3 +17,6 @@ Antes da construção do dashboard, foi realizado um processo de **ETL (Extraç�
 ✅ **Distribuição de gênero por curso**: Identificação da predominância de gênero em diferentes cursos.  
 ✅ **Taxa de conclusão**: Percentual de alunos que obtiveram o diploma.  
 ✅ **Média de notas por campus**: Comparação do desempenho acadêmico entre diferentes unidades da universidade.  
+
+
+![Image](https://github.com/user-attachments/assets/b800b601-c27b-4899-9ae8-2802afb9f173)
